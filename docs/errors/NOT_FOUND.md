@@ -8,7 +8,7 @@ The `NOT_FOUND` error occurs when a requested resource could not be found. This 
 
 Not Found
 
-## Troubleshoot
+## [Troubleshoot](#troubleshoot)
 
 To troubleshoot this error, follow these steps:
 
@@ -18,7 +18,8 @@ To troubleshoot this error, follow these steps:
 4. Verify permissions: Ensure you have the necessary [permissions](/docs/accounts/team-members-and-roles) to access the deployment
 5. Contact support: If you've checked the above and are still unable to resolve the issue, [contact support](/help#issues) for further assistance
 
-[Not what you were looking for?](/docs/errors)
+
+### [Not what you were looking for?](/docs/errors)
 
 Try filtering the errors by tag, code, or name on the Error Codes page.
 
